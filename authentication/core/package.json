@@ -9,13 +9,13 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "typescript": "2.9.2"
+    "typescript": "3.7.4"
   },
   "dependencies": {
-    "@types/node": "10.3.4",
-    "@types/redux-logger": "3.0.6",
-    "redux": "4.0.0",
+    "@types/node": "13.1.6",
+    "@types/redux-logger": "3.0.7",
+    "redux": "4.0.5",
     "redux-logger": "3.0.6",
-    "redux-saga": "0.16.0"
+    "redux-saga": "1.1.3"
   }
 }

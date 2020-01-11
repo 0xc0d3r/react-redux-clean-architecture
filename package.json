@@ -21,7 +21,7 @@
     "prettier": "prettier --write '**/src/**/*.ts?(x)'"
   },
   "devDependencies": {
-    "prettier": "1.13.5",
+    "prettier": "1.19.1",
     "prettierrc": "0.0.0-5"
   }
 }
