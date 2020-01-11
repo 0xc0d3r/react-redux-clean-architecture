@@ -1,0 +1,27 @@
+{
+  "description": "React clean architecture boilerplate to develop readable, predictable & maintainable frontend applications",
+  "name": "react-clean-architecture",
+  "version": "1.0.0",
+  "author": "0xc0d3r",
+  "license": "MIT",
+  "homepage": "https://github.com/0xc0d3r/react-clean-architecture#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xc0d3r/react-clean-architecture.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "clean-architecture",
+    "clean-code",
+    "boilerplate",
+    "starter-kit"
+  ],
+  "scripts": {
+    "prettier": "prettier --write '**/src/**/*.ts?(x)'"
+  },
+  "devDependencies": {
+    "prettier": "1.13.5",
+    "prettierrc": "0.0.0-5"
+  }
+}
