@@ -1,6 +1,6 @@
 {
   "description": "React clean architecture boilerplate to develop readable, predictable & maintainable frontend applications",
-  "name": "react-clean-architecture",
+  "name": "react-redux-clean-architecture",
   "version": "1.0.0",
   "author": "0xc0d3r",
   "license": "MIT",
