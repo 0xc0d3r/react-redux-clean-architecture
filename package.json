@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": "0xc0d3r",
   "license": "MIT",
-  "homepage": "https://github.com/0xc0d3r/react-clean-architecture#readme",
+  "homepage": "https://github.com/0xc0d3r/react-redux-clean-architecture#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xc0d3r/react-clean-architecture.git"
+    "url": "git+https://github.com/0xc0d3r/react-redux-clean-architecture.git"
   },
   "keywords": [
     "react",

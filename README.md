@@ -7,7 +7,7 @@ Although I have greatly simplified it, for educational purposes, I believe that 
 
 
 ## Philosophy
-![high-level-diagram](https://github.com/0xc0d3r/react-clean-architecture/blob/master/docs/images/high-level-diagram.jpg)  
+![high-level-diagram](https://github.com/0xc0d3r/react-redux-clean-architecture/blob/master/docs/images/high-level-diagram.jpg)  
 
 The nomenclature may vary, but the concept behind this architectural pattern is: the domain dictates how tools should be organized and not the other way around.
 What I mean by that is that we should organize our codebase around the business rules and not around the frameworks we use to achieve business rules.
@@ -16,7 +16,7 @@ Another important rule is: entities and use cases should not rely on external li
 If by chance, an essential part of the application core MUST BE an external dependency. Dependency needs to be modeled following [dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle).
 
 ## Communication flow
-![communication-flow-diagram](https://github.com/0xc0d3r/react-clean-architecture/blob/master/docs/images/communication-flow.jpg)  
+![communication-flow-diagram](https://github.com/0xc0d3r/react-redux-clean-architecture/blob/master/docs/images/communication-flow.jpg)  
 
 ### A brief explanation of each responsibility
 - **Entity**: Application independent business rules
@@ -36,7 +36,7 @@ It contains some shared business rules:
 - The App cannot sign up two users with the same email address.
 - The App must use an external dependency to persist user register.  
 
-![authentication-gif](https://github.com/0xc0d3r/react-clean-architecture/blob/master/docs/images/authentication.gif)  
+![authentication-gif](https://github.com/0xc0d3r/react-redux-clean-architecture/blob/master/docs/images/authentication.gif)  
 
 ---  
 
